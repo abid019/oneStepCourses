@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/oneStepCourses/static/css/main.61f2b817.css",
+    "main.js": "/oneStepCourses/static/js/main.6b461c72.js",
+    "static/media/gate.png": "/oneStepCourses/static/media/gate.0e1a0712e64808a3f033.png",
+    "static/media/audito.png": "/oneStepCourses/static/media/audito.e6d93e22c27008df38d5.png",
+    "static/media/logo.png": "/oneStepCourses/static/media/logo.6a2ce9542b920a9c4001.png",
+    "static/media/frame.png": "/oneStepCourses/static/media/frame.3a238e5f26d676376e1d.png",
+    "index.html": "/oneStepCourses/index.html",
+    "main.61f2b817.css.map": "/oneStepCourses/static/css/main.61f2b817.css.map",
+    "main.6b461c72.js.map": "/oneStepCourses/static/js/main.6b461c72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61f2b817.css",
+    "static/js/main.6b461c72.js"
+  ]
+}
