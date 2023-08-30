@@ -5,7 +5,7 @@ const Privatecourse = ({isLogIn,children})=>{
     return children;
   }
   else{
-    return <Navigate to="/login"/>
+    return <Navigate to="/courses"/>
   }
 }
 

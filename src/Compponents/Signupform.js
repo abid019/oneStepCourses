@@ -24,7 +24,7 @@ function Signupform({setIslogin}) {
     const navigator = useNavigate();
     function submitHandler(event){
         event.preventDefault()
-        if(formData.Password1 != formData.Password2){
+        if(formData.Password1 !== formData.Password2){
             toast.error("password doesn't match")
             return;
         }

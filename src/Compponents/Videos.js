@@ -8,7 +8,6 @@ function Videos() {
     
     const [formData,setFormData] = useState({
         comments:"",
-        show_text:""
     })
     function ChangeHandler(event){
         setFormData((prev)=>{
@@ -21,9 +20,9 @@ function Videos() {
     }
     function clickHandler(){
         console.log(formData);
-        const show_text = {
-            ...formData
-        }
+        // const show_text = {
+        //     ...formData
+        // }
     }
     
   return (

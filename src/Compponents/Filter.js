@@ -3,7 +3,7 @@ import React from 'react'
 const Filter = (props) => {
     let filterData = props.filterData;
     let setCategory = props.setCategory;
-    let category = props.Category;
+    // let category = props.Category;
     function categoryHandler(title){
       setCategory(title);
       
